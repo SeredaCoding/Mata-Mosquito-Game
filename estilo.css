@@ -5,18 +5,18 @@ html{
 body{
 	background-image: url(imagens/bg.jpg);
 	background-size: 100%;
-	background-repeat: no-repeat;
+	background-repeat: 
 	background-color: green;
 }
 
 .mosquito1{
-	width: 50px;
-	height: 50px;
+	width: 70px;
+	height: 70px;
 }
 
 .mosquito2{
-	width: 70px;
-	height: 70px;
+	width: 80px;
+	height: 80px;
 }
 
 .mosquito3{
@@ -59,6 +59,11 @@ body{
 	float: left;
 	font-size: 17px;
 	font-weight: bold;
+}
+
+#img_game_over{
+	min-width: 20%;
+	max-width: 38%;
 }
 
 
